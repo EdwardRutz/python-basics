@@ -2,7 +2,9 @@
 
 >Python basics demo
 
+## Notes
 
+Show origin/remote urls, ` git remote -v `
 
 ## Sources
 
